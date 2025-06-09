@@ -54,7 +54,7 @@ SanDisk 1TB and JEtech Screen products received the most reviews
 Peak sales occurred during festive months, with significant weekly variations.
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](amazon_dashboard.png)
+![Amazon Sales Dashboard](https://github.com/aryanparab77/Amazon-Sales-Dashboard-Power-BI/blob/main/amazon%20sales%20dashboard%20screenshot.png?raw=true)
 
 
 
