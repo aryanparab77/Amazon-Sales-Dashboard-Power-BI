@@ -51,7 +51,11 @@ Men’s Shoes and Camera categories had the highest contribution to sales
 
 SanDisk 1TB and JEtech Screen products received the most reviews
 
-Peak sales occurred during festive months, with significant weekly variations
+Peak sales occurred during festive months, with significant weekly variations.
+## 📸 Dashboard Preview
+
+![Amazon Sales Dashboard](amazon_dashboard.png)
+
 
 
 
